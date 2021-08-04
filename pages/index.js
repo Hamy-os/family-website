@@ -41,7 +41,7 @@ function App() {
     );
   });
   return (
-    <div className=" font-sans text-lg h-full w-full text-gray-900 text-center p-48 overflow-hidden items-center">
+    <div className=" font-sans text-lg h-full w-full text-gray-900 text-center overflow-hidden items-center">
       <h1>This website is under contstruction!</h1>
       <h2>Come back in</h2>
       <div>
