@@ -45,7 +45,7 @@ function App() {
       <h1>This website is under contstruction!</h1>
       <h2>Come back in</h2>
       <div>
-        {timerComponents.length ? timerComponents : <span>Time's up!</span>}   
+        {timerComponents.length ? timerComponents : <span>Time is up!</span>}   
       </div>
 
     </div>
