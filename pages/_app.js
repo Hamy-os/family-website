@@ -1,13 +1,20 @@
 import 'tailwindcss/tailwind.css'
-import Head from 'next/head'
 import Layout from '../components/Layout'
+import Head from 'next/head'
+import { useEffect } from 'react'
+import { themeChange } from 'theme-change'
 
-function MyApp({ Component, pageProps }) {
+function MyApp({ Component, pageProps }) {  
+  useEffect(() => {
+    themeChange(false)
+    // 👆 false parameter is required for react project
+  }, [])
   return (
   <div>
     <Head>   
+      
     </Head>
-    <main>
+    <main className="mb-auto overflow-auto" data-theme="cupcake">
       <Layout>
         <Component {...pageProps} />
       </Layout>

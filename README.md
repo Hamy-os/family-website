@@ -1,18 +1,11 @@
 
-# How To Setup Links
-  
-1. Go-to the [Navbar file](./components/navbar.jsx)
+# Source Code For [alisic.family](https://alisic.family)
 
-2. Go-to the top of the file and enter your information into the fields
+# Purpose
 
-3. Video Example: 
+Hello, My name is Hamza Alisic, I am the main developer on this website and its main purpose apart from being a hub for my family's portfolios and such is to showcase my skills for people curious about what I can make :)
 
-# How To Set Server Name
+# F.A.Q
 
-1. Go-to the [Navbar file](./components/navbar.jsx)
-
-2. Go-to Line 15 and put the acronym for your server name
-  
-3. Go-to the [Footer file](./components/footer.jsx)
-
-4. Go-to Line 9 and put your full server name
+1. Can I use this for my own family? Sure, but make sure to keep my github link visible somewhere on the site, preferably on the footer <3
+2. IDK what else poeple would ask so feel free to open an [issue](https://github.com/Hamy-os/family-website/issues/new) and ask :)
