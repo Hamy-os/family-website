@@ -10,11 +10,10 @@ function MyApp({ Component, pageProps }) {
     // 👆 false parameter is required for react project
   }, [])
   return (
-  <div>
+  <div >
     <Head>   
-      
     </Head>
-    <main className="mb-auto overflow-auto" data-theme="cupcake">
+    <main className="mb-auto overflow-auto">
       <Layout>
         <Component {...pageProps} />
       </Layout>
