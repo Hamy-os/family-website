@@ -566,9 +566,9 @@ cssnano-simple@3.0.0:
   dependencies:
     cssnano-preset-simple "^3.0.0"
 
-daisyui@^1.22.0:
-  version "1.22.0"
-  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.22.0.tgz#1762047fc072941c3e0f2662a3f5719292f5d0d7"
+daisyui@^1.24.2:
+  version "1.24.2"
+  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.24.2.tgz#2edc60a68dc78db25b78de60fda565a103badb3b"
 
 data-uri-to-buffer@3.0.1:
   version "3.0.1"
