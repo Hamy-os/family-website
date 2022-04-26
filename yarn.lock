@@ -60,9 +60,9 @@
   version "9.2.1"
   resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.2.1.tgz"
 
-"@headlessui/react@^1.4.2":
-  version "1.4.2"
-  resolved "https://registry.npmjs.org/@headlessui/react/-/react-1.4.2.tgz"
+"@headlessui/react@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.6.0.tgz#5943c0b1e5b1a02566ab45f665a05188b1d079c5"
 
 "@napi-rs/triples@1.0.3":
   version "1.0.3"
