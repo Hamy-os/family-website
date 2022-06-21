@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@headlessui/react": "^1.4.2",
+    "@headlessui/react": "^1.6.5",
     "daisyui": "^1.22.0",
     "next": "latest",
     "react": "^17.0.2",
